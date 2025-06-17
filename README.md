@@ -107,9 +107,10 @@ All Prereqs Pass ![image](https://github.com/user-attachments/assets/6aaa7e7a-c2
 
 ---
 
-## 🛠️ Finalize Se
+## 🛠️ Finalize Setup
 
-Installation Confirmation ![image](https://github.com/user-attachments/assets/233fb87e-def2-4333-905a-e38b1e9924e1)
+Installation Confirmation ![image](https://github.com/user-attachments/assets/a4246ec2-51bf-4c7c-877b-b25063e7dbb9)
+
 
 
 📄 **Description**: This screen confirms the installation is complete. It provides URLs to the Support Center and Staff Control Panel, and reminds users to remove write permissions on the config file for security.
@@ -118,7 +119,9 @@ Installation Confirmation ![image](https://github.com/user-attachments/assets/23
 
 ## 🧩 Verify Database Configuration
 
-![Database Tables in HeidiSQL](
+Database Tables in HeidiSQL ![image](https://github.com/user-attachments/assets/b5f655ac-7715-41ed-ae48-1846ee09043c)
+
+
 
 📄 **Description**: This screenshot shows the populated `osticket` database in HeidiSQL. It includes all system tables created during setup, confirming successful MySQL integration.
 
@@ -126,7 +129,8 @@ Installation Confirmation ![image](https://github.com/user-attachments/assets/23
 
 ## 🎟️ View Admin Panel
 
-![Staff Control Panel](
+Staff Control Panel ![image](https://github.com/user-attachments/assets/0dc05347-ffa5-4a83-a965-8c21e042072d)
+
 
 📄 **Description**: The Staff Control Panel is accessible via `localhost/osTicket/scp`. It shows the default support ticket created upon installation, validating successful admin access.
 
@@ -134,6 +138,7 @@ Installation Confirmation ![image](https://github.com/user-attachments/assets/23
 
 ## 👥 View Support Center
 
-![Customer Support Portal]
+Customer Support Portal ![image](https://github.com/user-attachments/assets/3ba227c0-2a3f-481f-af84-41d8769e7b83)
+
 
 📄 **Description**: The front-end user interface of osTicket is shown here, where users can submit new tickets and check ticket statuses. This verifies the help desk system is fully operational.
